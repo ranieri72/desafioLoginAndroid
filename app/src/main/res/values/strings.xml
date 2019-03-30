@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DesafioLogin</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="deslogar">Deslogar</string>
+    <string name="login_error">Login inválido!</string>
 </resources>
